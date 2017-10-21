@@ -1,0 +1,17 @@
+h1 {
+    color: yellowgreen;
+    font-family: Georgia;
+    border: solid 2px;
+}
+
+p {
+    color: #CD32B8;
+    font-family: Georgia;
+    border: solid 2px;
+}
+
+li {
+    color: #44168D;
+    font-family: Georgia;
+    border: 2px solid green;
+}
